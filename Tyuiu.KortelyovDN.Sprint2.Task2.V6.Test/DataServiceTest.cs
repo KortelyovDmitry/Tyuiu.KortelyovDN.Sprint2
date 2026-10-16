@@ -1,5 +1,5 @@
 ﻿using Tyuiu.KortelyovDN.Sprint2.Task7.V6.Lib;
-
+//f
 namespace Tyuiu.KortelyovDN.Sprint2.Task7.V6.Test
 {
     [TestClass]
