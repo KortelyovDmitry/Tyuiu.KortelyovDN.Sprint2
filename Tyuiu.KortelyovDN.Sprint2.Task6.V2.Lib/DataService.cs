@@ -8,10 +8,10 @@ namespace Tyuiu.KortelyovDN.Sprint2.Task6.V2.Lib
         {
             return value switch
             {
-                12 or 1 or 2 => "Зима",
-                3 or 4 or 5 => "Весна",
-                6 or 7 or 8 => "Лето",
-                9 or 10 or 11 => "Осень",
+                12 or 1 or 2 => "зима",
+                3 or 4 or 5 => "весна",
+                6 or 7 or 8 => "лето",
+                9 or 10 or 11 => "осень",
                 _ => throw new ArgumentException($"Месяца с номером {value} не существует.")
             };
         }
